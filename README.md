@@ -47,18 +47,6 @@ See `SECURITY.md` for policy.
 
 ---
 
-## 🗺️ Roadmap
-
-Refer to `ROADMAP.md` for high-level direction and upcoming milestones.
-
----
-
-## 🤝 Contributing
-
-Please review `CONTRIBUTING.md` before submitting pull requests or issues.
-
----
-
 ## 👤 Maintainer
 
 Ajay O S  
